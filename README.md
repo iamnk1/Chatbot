@@ -63,6 +63,4 @@ This project is still under development. Features are being added, and improveme
 
 Feel free to fork this repository and submit pull requests if you'd like to contribute to the development. Issues and feedback are always welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
